@@ -1,0 +1,10 @@
+{
+    "Menu": {
+        "home": "Beranda",
+        "about": "Tentang Kami",
+        "services": "Layanan",
+        "projects": "Proyek",
+        "blogs": "Blog",
+        "contact": "Kontak"
+    }
+}
